@@ -207,7 +207,7 @@ hr {
   width: 25%;
 }
 
- /* CSS for small screens (e.g., mobile) */
+/* CSS for small screens (e.g., mobile) */
 @media (max-width: 768px) {
   .thumbnail_mobile {
     position: relative;
