@@ -34,9 +34,7 @@ a.anchor {
   padding-bottom: 150px;
   color: #fff;
   font-size: 3em;
-  text-shadow:
-    0px 4px 3px rgba(0, 0, 0, 0.4),
-    0px 8px 13px rgba(0, 0, 0, 0.5),
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.5),
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
@@ -53,18 +51,14 @@ a.anchor {
 }
 
 #portfolio {
-  
   height: 100%;
   padding-top: 100px;
   padding-bottom: 100px;
-
 }
 
 #portfolio h1 {
   font-size: 5em;
-  text-shadow:
-    0px 4px 3px rgba(0, 0, 0, 0.4),
-    0px 8px 13px rgba(0, 0, 0, 0.5),
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.5),
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
@@ -114,18 +108,15 @@ a.anchor {
 }
 
 #about {
-background-color: #ececec;
+  background-color: #ececec;
   height: 100%;
   padding-top: 100px;
   padding-bottom: 100px;
-
 }
 
 #about h1 {
   font-size: 5em;
-  text-shadow:
-    0px 4px 3px rgba(0, 0, 0, 0.4),
-    0px 8px 13px rgba(0, 0, 0, 0.5),
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.5),
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
@@ -149,26 +140,33 @@ background-color: #ececec;
   padding: 6% 2%;
 }
 
-#contact {
+button.demo-button {
+  background-color: #0891b2;
+  color: white;
+  border: none;
+  margin: 10px;
+  padding: 10px 40px;
+  border-radius: 5px;
+}
 
+button.demo-button:hover {
+  background-color: #155e75;
+}
+
+#contact {
   height: 100%;
   padding-top: 100px;
   padding-bottom: 100px;
-
 }
 
 #contact h1 {
   font-size: 5em;
-  text-shadow:
-    0px 4px 3px rgba(0, 0, 0, 0.4),
-    0px 8px 13px rgba(0, 0, 0, 0.5),
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.5),
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
 #contact h2 {
-  text-shadow:
-    0px 4px 3px rgba(0, 0, 0, 0.4),
-    0px 8px 13px rgba(0, 0, 0, 0.5),
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.5),
     0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
